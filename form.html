@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title></title>
+<META NAME='Keywords' lang='en-us' CONTENT='newsletter opt-in, mailing list, subscriber, JQuery, PHP, mySQL, sign-up form'>
+<META NAME='description' CONTENT='A newsletter opt-in form using JQuery, PHP, mySQL.'>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<!-- THE NEXT script LINE IS IMPORTANT: Lods the jquery library
+	if we already use jQuery ar the website then there is no need to load it again and we dont need this line. -->
+ <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+<!--	COPY THIS PART FROM <script.... TO </script> -->
+<script language="Javascript" type="text/javascript">
+
+/* wording of the error and thank you messages */
+
+var error_1="Please enter your valid email address";
+var error_2="Please enter your  name";
+var thankyou="Thank you";
+function trim(str){str = str.replace(/^\s*$/, '');return str;}
+function $Npro(field){var element =  document.getElementById(field);return element;return false;}
+function emailvalidation(field, errorMessage) {
+	var goodEmail = field.value.match(/[a-zA-Z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?/); 
+	apos=field.value.indexOf("@");dotpos=field.value.lastIndexOf(".");lastpos=field.value.length-1;tldLen = lastpos-dotpos;dmLen=dotpos-apos-1;var badEmail= (tldLen<2 || dmLen<2 || apos<1);
+	if (!goodEmail || badEmail) {$Npro("Error").innerHTML=errorMessage;$Npro("Error").style.display="inline";field.focus();field.select();return false;}
+	else {return true;}
+}
+function emptyvalidation(entered, errorMessage) {
+	$Npro("Error").innerHTML="";
+	with (entered) {
+	if (trim(value)==null || trim(value)=="") {/*alert(errorMessage);*/$Npro("Error").innerHTML=errorMessage;$Npro("Error").style.display="inline";return false;}
+	else {return true;}}//with
+}//emptyvalidation
+
+function signup(thisform) {
+	with (thisform) {
+		if (emailvalidation(email,error_1)==false) {email.focus(); return false;};
+		if (emptyvalidation(name,error_2)==false) {name.focus(); return false;};
+	}
+	$("#submit, #myResponse").hide();	// Hide the buttom and the message
+	$("#loading").show();				// show the loading image.
+	params=$("#subform").serialize();
+	$.post("optIn.php", params, function(response ){
+		//alert(response); //may need to activate this line for debugging.
+    	$("#loading").hide();
+		$("#myResponse").html(thankyou); //Writes the "Thank you" message that comes from optIn.php and styles it.
+		$('#myResponse').css({display:'inline',color:'green'})
+		$("#submit").show();
+		}
+	)
+return false;
+}
+
+</script>
+</head>
+<body>
+
+<form onsubmit="return signup(this);return false;" method="post" name="subform" id="subform" action="optIn.php">
+	<div><span style="FONT-FAMILY: Arial; FONT-SIZE: 12pt; font-weight:bold;">Subscribe to our newsletter</span></div>
+	<div style="margin-top:20px">
+		<div>
+			<label style="display: inline-block;width:135px">Name:</label>
+			<input type="text"  name="name" id="name"  value="">
+		</div>
+		<div>
+			<label style="display: inline-block;width:135px">Email:</label>
+			<input type="text"  id="email" name="email" value="">
+		</div>
+		<div>
+			<div style="display:inline-block;width:135px;">&nbsp;</div>
+			<input type="submit" id="submit" name="submit" value="Sign up">
+		</div>
+		<div style="width:100%"><span id="Error" style="color:red;display:none;"></span></div>
+        <div id="myResponse" style="DISPLAY:none;"></div>
+		<div id="loading" style="display:none;"><img src="wait.gif" alt=""></div>
+	</div>
+</form>
+<!-- END OF FORM: STOP HERE. -->
+
+
+</body>
+</html>

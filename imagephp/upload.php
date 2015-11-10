@@ -1,18 +1,8 @@
-<!-- written by ayoola anibaba -->
 <?php
 include_once 'dbconfig.php';
 if(isset($_POST['btn-upload']))
 {    
-    	$title		= $_POST['title'];
-	$ti		= $_POST['ti'];
-	$cooktime	= $_POST['cooktime'];
-	$easy		= $_POST['easy'];
-	$people		= $_POST['people'];
-	$category	= $_POST['category'];
-	$description	= $_POST['description'];
-	$ing1		= $_POST['ing1'];
-	$qty		= $_POST['qty'];
-	$instruction	= $_POST['instruction']; 
+     
  $file = rand(1000,100000)."-".$_FILES['file']['name'];
     $file_loc = $_FILES['file']['tmp_name'];
  $file_size = $_FILES['file']['size'];
@@ -28,12 +18,14 @@ if(isset($_POST['btn-upload']))
  // make file name in lower case
  
  $final_file=str_replace(' ','-',$new_file_name);
-
+ 	$file	= $_POST['file'];
+	$type	= $_POST['type'];
+	$size	= $_POST['size'];
 	
  if(move_uploaded_file($file_loc,$folder.$final_file))
  {
  // $sql="INSERT INTO 'tbl_uploads'('file', 'type', 'size') VALUES('{$file}', '{$type}', '{$size}')";
-  $sql="INSERT INTO recipe(title,ti,cooktime,easy,people,category,description,ing1,qty,instruction,file,type,size) VALUES('$title','$ti','$cooktime','$easy','$people','$category','$description','$ing1','$qty','$instruction','$final_file','$file_type','$new_size')";
+  $sql="INSERT INTO tbl_uploads(file,type,size) VALUES('$final_file','$file_type','$new_size')";
   mysql_query($sql);
   
   ?>

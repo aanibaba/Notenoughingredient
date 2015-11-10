@@ -1,4 +1,4 @@
-<html xmlns="http://www.w3.org/1999/xhtml">
+ <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta charset="utf-8">
@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="css/animate.css" />
 	<link href="http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800" rel="stylesheet">
 	<link rel="shortcut icon" href="images/favicon.ico" />
-	<link rel="stylesheet" href="style.css" type="text/css" />	
+	
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
@@ -60,33 +60,49 @@
 	</header>
 	<!--//header-->
 <?php
-include_once 'dbconfig.php';
-?>
-<?php
- 
- $id = mysql_real_escape_string($_POST['id']);
- $sql="SELECT * FROM recipe ";
- $result_set=mysql_query($sql);
- while($row=mysql_fetch_array($result_set))
- {
-  ?>
-  	<table class="recipetable" atyle="position:relative;float:left">
-        <tr><td class="recipetitle" style="background:#F4716A;"><?php echo $row['title'] ?></td></tr>
-        </table>
-	<table style="width:400px;margin:0 auto;padding-top:30px;">
-        <tr style="text-align:center">
-	<td><img style="width:400px;" src="uploads/<?php echo $row['file'] ?>" ></td>
-	</tr></table>
-        <table class="recipedesc" atyle="position:relative;float:left">
-        <tr><td><p class="recipetxt">Description:</p><?php echo $row['description'] ?></td></tr>
-        <tr><td><p class="recipetxt">Ingredients:</p><?php echo $row['ing1'] ?></td></tr>
-        <tr><td><p class="recipetxt">Instruction:</p><?php echo $row['instruction'] ?></td></tr>
-        </table>
-       
-        <?php
+$servername = "localhost";
+$username = "ingredients";
+$password = "IngredientS@123";
+$dbname = "ingredients";
+
+// Create connection
+$conn = new mysqli($servername, $username, $password, $dbname);
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+} 
+$sql = "SELECT * from recipe";
+$result = $conn->query($sql);
+
+if ($result->num_rows > 0) {
+    // output data of each row
+    
+    while($row = $result->fetch_assoc()) {
+	echo "<table class='recipetable'>";
+        echo "<tr><td class='recipetitle' style='background:#F4716A;'>"  . $row["title"]. "</td></tr>"; 
+        echo "</table>";
+        echo "<div align=center><img style='width:300px;' src=\"../images/Braciola-de-Pollo.jpg\" alt=\"bla bla\" ></div>";
+	echo "<table style='max-width:800px;margin:0 auto; text-align:justify;margin-top:20px;margin-bottom:20px;'>";
+        echo "<tr><td class='recipecat'><p class='recipetxt'>Preperation Time</p>  "   . $row["ti"]. "</td><td class='recipecat'><p class='recipetxt'>Cooking Time</p> " . $row["cooktime"]. "</td><td class='recipecat'><p class='recipetxt'>Category</p> " . $row["category"]. "</td></tr>";            
+	echo "</table>";
+	echo "<table class='recipedesc'>";
+        echo "<tr><td><p class='recipetxt'>Description:</p> "  . $row["description"]. "</td></tr>";
+        echo "<tr><td><p class='recipetxt'>Ingredients:</p>" . $row["ing1"]. "</td></tr>";
+        echo "<tr><td><p class='recipetxt'>Instruction:</p> "  . $row["instruction"]. "</td></tr>";
+        echo "</table>";
         
- }
- ?>
+	echo "<img style="width:220px;" src="uploads/<?php echo $row['file'] ?>" ><br>";
+    }
+  echo '<img src="data:image/jpeg;base64,'.base64_encode($row['image']).'" alt="photo"><br>';
+     
+} else {
+    echo "0 results";
+}
+
+
+$conn->close();
+
+?>
 <!--footer-->
 	<footer class="foot" role="contentinfo">
 		<div class="wrap clearfix">
@@ -104,13 +120,13 @@ include_once 'dbconfig.php';
 					<h5>Follow us</h5>
 					<ul class="social">
 						<li class="facebook"><a href="#" title="facebook">facebook</a></li>
-					<!--	<li class="youtube"><a href="#" title="youtube">youtube</a></li>
+						<li class="youtube"><a href="#" title="youtube">youtube</a></li>
 						<li class="rss"><a href="#" title="rss">rss</a></li>
 						<li class="gplus"><a href="#" title="gplus">google plus</a></li>
 						<li class="linkedin"><a href="#" title="linkedin">linkedin</a></li>
 						<li class="twitter"><a href="#" title="twitter">twitter</a></li>
 						<li class="pinterest"><a href="#" title="pinterest">pinterest</a></li>
-						<li class="vimeo"><a href="#" title="vimeo">vimeo</a></li> -->
+						<li class="vimeo"><a href="#" title="vimeo">vimeo</a></li>
 					</ul>
 				</article>
 				
@@ -146,8 +162,5 @@ include_once 'dbconfig.php';
 	<script src="js/jquery.slicknav.min.js"></script>
 	<script src="js/scripts.js"></script>
 	<script>new WOW().init();</script>		
-
-
-    
 </body>
-</html>
+</html> 

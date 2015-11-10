@@ -1,3 +1,4 @@
+<!--written by ayoola anibaba -->
 <?php
 $mysql_hostname = "localhost";
 $mysql_user = "ingredients";

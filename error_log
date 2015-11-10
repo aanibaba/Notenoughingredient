@@ -1,0 +1,606 @@
+[22-Oct-2015 14:41:10 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'pragmeec_recipes'@'localhost' (using password: YES) in /home/pragmeec/public_html/recipes/register.php on line 21
+[22-Oct-2015 14:45:54 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'pragmeec_recipes'@'localhost' (using password: YES) in /home/pragmeec/public_html/recipes/register.php on line 21
+[22-Oct-2015 14:50:15 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/register.php on line 32
+[23-Oct-2015 07:48:54 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/register.php on line 32
+[23-Oct-2015 07:50:47 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/register.php on line 32
+[23-Oct-2015 11:14:09 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/recipe.php on line 35
+[23-Oct-2015 11:14:09 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/recipe.php on line 36
+[23-Oct-2015 11:14:09 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/recipe.php on line 37
+[23-Oct-2015 11:14:09 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/recipe.php on line 38
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/recipe.php on line 35
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/recipe.php on line 36
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/recipe.php on line 37
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/recipe.php on line 38
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined variable: title in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined variable: time in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined variable: cooktime in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined variable: easy in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined variable: people in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined variable: category in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined variable: description in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined variable: ing1 in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined variable: qty in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:21:58 Etc/GMT] PHP Notice:  Undefined variable: instruction in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/recipe.php on line 35
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/recipe.php on line 36
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/recipe.php on line 37
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/recipe.php on line 38
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined variable: title in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined variable: time in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined variable: cooktime in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined variable: easy in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined variable: people in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined variable: category in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined variable: description in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined variable: ing1 in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined variable: qty in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:25:50 Etc/GMT] PHP Notice:  Undefined variable: instruction in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/recipe.php on line 35
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/recipe.php on line 36
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/recipe.php on line 37
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/recipe.php on line 38
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined variable: title in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined variable: time in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined variable: cooktime in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined variable: easy in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined variable: people in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined variable: category in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined variable: description in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined variable: ing1 in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined variable: qty in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:26:47 Etc/GMT] PHP Notice:  Undefined variable: instruction in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/recipe.php on line 35
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/recipe.php on line 36
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/recipe.php on line 37
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/recipe.php on line 38
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined variable: title in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined variable: ti in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined variable: cooktime in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined variable: easy in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined variable: people in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined variable: category in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined variable: description in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined variable: ing1 in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined variable: qty in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:29:57 Etc/GMT] PHP Notice:  Undefined variable: instruction in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/recipe.php on line 35
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/recipe.php on line 36
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/recipe.php on line 37
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/recipe.php on line 38
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined variable: title in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined variable: ti in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined variable: cooktime in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined variable: easy in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined variable: people in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined variable: category in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined variable: description in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined variable: ing1 in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined variable: qty in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:32:49 Etc/GMT] PHP Notice:  Undefined variable: instruction in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/recipe.php on line 35
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/recipe.php on line 36
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/recipe.php on line 37
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/recipe.php on line 38
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined variable: title in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined variable: ti in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined variable: cooktime in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined variable: easy in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined variable: people in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined variable: category in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined variable: description in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined variable: ing1 in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined variable: qty in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:35:35 Etc/GMT] PHP Notice:  Undefined variable: instruction in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/recipe.php on line 35
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/recipe.php on line 36
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/recipe.php on line 37
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/recipe.php on line 38
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined variable: title in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined variable: ti in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined variable: cooktime in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined variable: easy in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined variable: people in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined variable: category in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined variable: description in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined variable: ing1 in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined variable: qty in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:37:36 Etc/GMT] PHP Notice:  Undefined variable: instruction in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/recipe.php on line 35
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/recipe.php on line 36
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/recipe.php on line 37
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/recipe.php on line 38
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined variable: title in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined variable: ti in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined variable: cooktime in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined variable: easy in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined variable: people in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined variable: category in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined variable: description in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined variable: ing1 in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined variable: qty in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 11:39:22 Etc/GMT] PHP Notice:  Undefined variable: instruction in /home/pragmeec/public_html/recipes/recipe.php on line 41
+[23-Oct-2015 12:34:48 Etc/GMT] PHP Notice:  Undefined index: category in /home/pragmeec/public_html/recipes/recipe.php on line 176
+[23-Oct-2015 12:34:48 Etc/GMT] PHP Notice:  Undefined index: category in /home/pragmeec/public_html/recipes/recipe.php on line 239
+[23-Oct-2015 12:59:07 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/recipe.php on line 167
+[23-Oct-2015 13:01:02 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/recipe.php on line 167
+[23-Oct-2015 14:25:24 Etc/GMT] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/forgetpassword.php on line 36
+[23-Oct-2015 14:25:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/forgetpassword.php on line 36
+[24-Oct-2015 04:51:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 3
+[24-Oct-2015 04:51:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 3
+[24-Oct-2015 04:51:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 3
+[24-Oct-2015 04:52:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 3
+[24-Oct-2015 04:55:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 04:56:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 27
+[24-Oct-2015 04:58:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 27
+[24-Oct-2015 05:00:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 30
+[24-Oct-2015 05:00:33 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 30
+[24-Oct-2015 05:00:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 30
+[24-Oct-2015 05:00:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 30
+[24-Oct-2015 05:00:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 30
+[24-Oct-2015 05:02:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 32
+[24-Oct-2015 05:02:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 33
+[24-Oct-2015 05:17:34 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/pragmeec/public_html/recipes/recipes.php on line 8
+[24-Oct-2015 05:17:34 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 9
+[24-Oct-2015 05:17:53 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/pragmeec/public_html/recipes/recipes.php on line 6
+[24-Oct-2015 05:17:53 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 7
+[24-Oct-2015 05:20:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/pragmeec/public_html/recipes/recipes.php on line 7
+[24-Oct-2015 05:20:19 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 8
+[24-Oct-2015 05:21:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/pragmeec/public_html/recipes/recipes.php on line 8
+[24-Oct-2015 05:21:27 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 9
+[24-Oct-2015 05:22:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'mysql_close' (T_STRING) in /home/pragmeec/public_html/recipes/recipes.php on line 22
+[24-Oct-2015 05:22:38 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/pragmeec/public_html/recipes/recipes.php on line 8
+[24-Oct-2015 05:22:38 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 9
+[24-Oct-2015 05:23:52 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 9
+[24-Oct-2015 05:23:58 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 9
+[24-Oct-2015 05:24:42 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 9
+[24-Oct-2015 05:27:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 3
+[24-Oct-2015 05:30:07 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 27
+[24-Oct-2015 05:30:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 28
+[24-Oct-2015 05:40:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 33
+[24-Oct-2015 05:49:23 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/recipes.php on line 10
+[24-Oct-2015 05:49:28 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/recipes.php on line 10
+[24-Oct-2015 05:49:46 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/recipes.php on line 10
+[24-Oct-2015 05:50:01 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/recipes.php on line 10
+[24-Oct-2015 05:50:04 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/recipes.php on line 10
+[24-Oct-2015 05:52:22 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/recipes.php on line 10
+[24-Oct-2015 06:00:29 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/recipes.php on line 6
+[24-Oct-2015 06:02:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/pragmeec/public_html/recipes/recipes.php on line 6
+[24-Oct-2015 06:02:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/pragmeec/public_html/recipes/recipes.php on line 6
+[24-Oct-2015 06:04:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/pragmeec/public_html/recipes/recipes.php on line 6
+[24-Oct-2015 06:05:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/pragmeec/public_html/recipes/recipes.php on line 6
+[24-Oct-2015 06:06:01 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/recipes.php on line 6
+[24-Oct-2015 06:07:16 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/recipes.php on line 6
+[24-Oct-2015 06:24:40 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 10
+[24-Oct-2015 06:28:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/recipes.php on line 39
+[24-Oct-2015 06:31:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 34
+[24-Oct-2015 06:33:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 34
+[24-Oct-2015 06:33:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 06:37:18 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:38:00 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:39:26 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:39:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:40:43 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:40:47 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:41:07 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:43:50 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:44:29 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:45:20 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:45:26 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:45:47 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:46:02 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:48:26 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:49:05 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:49:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:49:05 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 06:49:05 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:49:05 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:49:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:49:47 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:49:47 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 06:49:47 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:49:47 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:49:50 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:49:50 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:49:50 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 06:49:50 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:49:50 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:51:08 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:51:08 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:51:08 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 06:51:08 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:51:08 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:52:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:52:55 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:52:55 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 06:52:55 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:52:55 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:52:55 Etc/GMT] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/pragmeec/public_html/recipes/recipes.php on line 28
+[24-Oct-2015 06:52:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:52:57 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 06:52:57 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 06:52:57 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:52:57 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 25
+[24-Oct-2015 06:52:57 Etc/GMT] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/pragmeec/public_html/recipes/recipes.php on line 28
+[24-Oct-2015 06:53:32 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 18
+[24-Oct-2015 06:53:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 18
+[24-Oct-2015 06:53:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 06:53:32 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 06:53:32 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 06:53:32 Etc/GMT] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/pragmeec/public_html/recipes/recipes.php on line 29
+[24-Oct-2015 06:53:56 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 18
+[24-Oct-2015 06:53:56 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 18
+[24-Oct-2015 06:53:56 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 06:53:56 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 06:53:56 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 06:53:56 Etc/GMT] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/pragmeec/public_html/recipes/recipes.php on line 29
+[24-Oct-2015 06:55:32 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 18
+[24-Oct-2015 06:55:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 18
+[24-Oct-2015 06:55:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 06:55:32 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 06:55:32 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 06:55:32 Etc/GMT] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/pragmeec/public_html/recipes/recipes.php on line 29
+[24-Oct-2015 06:56:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 18
+[24-Oct-2015 06:56:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 18
+[24-Oct-2015 06:56:07 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 06:56:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 06:56:07 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 06:56:07 Etc/GMT] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/pragmeec/public_html/recipes/recipes.php on line 29
+[24-Oct-2015 06:56:39 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:56:39 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:56:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 18
+[24-Oct-2015 06:56:39 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 23
+[24-Oct-2015 06:56:39 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 23
+[24-Oct-2015 06:56:39 Etc/GMT] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 06:57:02 Etc/GMT] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/pragmeec/public_html/recipes/recipes.php on line 8
+[24-Oct-2015 06:57:02 Etc/GMT] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/pragmeec/public_html/recipes/recipes.php on line 8
+[24-Oct-2015 06:57:02 Etc/GMT] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/pragmeec/public_html/recipes/recipes.php on line 8
+[24-Oct-2015 06:57:02 Etc/GMT] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/pragmeec/public_html/recipes/recipes.php on line 8
+[24-Oct-2015 06:57:02 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (0) in /home/pragmeec/public_html/recipes/recipes.php on line 8
+[24-Oct-2015 06:57:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:57:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 06:57:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pragmeec/public_html/recipes/recipes.php on line 18
+[24-Oct-2015 06:57:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/pragmeec/public_html/recipes/recipes.php on line 23
+[24-Oct-2015 06:57:16 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pragmeec/public_html/recipes/recipes.php on line 23
+[24-Oct-2015 06:57:16 Etc/GMT] PHP Notice:  Use of undefined constant test - assumed 'test' in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 07:02:08 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:02:10 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:02:27 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:02:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/recipes.php on line 35
+[24-Oct-2015 07:03:09 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:04:33 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:04:36 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:05:15 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:05:17 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:06:32 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:06:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/pragmeec/public_html/recipes/recipes.php on line 22
+[24-Oct-2015 07:08:38 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:09:26 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 07:10:17 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 07:13:09 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:13:53 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:13:57 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 16
+[24-Oct-2015 07:14:24 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 07:16:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pragmeec/public_html/recipes/recipes.php on line 22
+[24-Oct-2015 07:16:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pragmeec/public_html/recipes/recipes.php on line 22
+[24-Oct-2015 07:17:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pragmeec/public_html/recipes/recipes.php on line 22
+[24-Oct-2015 07:18:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/pragmeec/public_html/recipes/recipes.php on line 22
+[24-Oct-2015 07:18:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '.' in /home/pragmeec/public_html/recipes/recipes.php on line 22
+[24-Oct-2015 07:19:06 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 07:22:26 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 07:24:19 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 14
+[24-Oct-2015 07:25:19 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 14
+[24-Oct-2015 07:25:52 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 14
+[24-Oct-2015 07:26:55 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 07:26:58 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 15
+[24-Oct-2015 07:27:28 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 14
+[24-Oct-2015 07:28:16 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 14
+[24-Oct-2015 07:33:30 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 14
+[24-Oct-2015 07:36:51 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/recipes.php on line 14
+[24-Oct-2015 07:43:28 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/pragmeec/public_html/recipes/recipes.php on line 17
+[24-Oct-2015 07:43:43 Etc/GMT] PHP Notice:  Undefined index: Title in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 07:43:43 Etc/GMT] PHP Notice:  Undefined index: Title in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 07:45:50 Etc/GMT] PHP Notice:  Undefined index: Title in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 07:45:50 Etc/GMT] PHP Notice:  Undefined index: Title in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 07:46:52 Etc/GMT] PHP Notice:  Undefined index: Title in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 07:46:52 Etc/GMT] PHP Notice:  Undefined index: Title in /home/pragmeec/public_html/recipes/recipes.php on line 20
+[24-Oct-2015 08:00:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/pragmeec/public_html/recipes/recipes.php on line 26
+[24-Oct-2015 08:07:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/recipes.php on line 22
+[24-Oct-2015 08:07:28 Etc/GMT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:10:38 Etc/GMT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:12:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE), expecting ',' or ';' in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:13:51 Etc/GMT] PHP Notice:  Undefined variable: image in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:13:51 Etc/GMT] PHP Fatal error:  Call to a member function load() on a non-object in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:20:26 Etc/GMT] PHP Notice:  Undefined index: pic in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:20:26 Etc/GMT] PHP Notice:  Undefined index: pic in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:22:19 Etc/GMT] PHP Notice:  Undefined index: pic in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:22:19 Etc/GMT] PHP Notice:  Undefined index: pic in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:22:19 Etc/GMT] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/pragmeec/public_html/recipes/recipes.php on line 28
+[24-Oct-2015 08:22:19 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/pragmeec/public_html/recipes/recipes.php on line 45
+[24-Oct-2015 08:22:23 Etc/GMT] PHP Notice:  Undefined index: pic in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:22:23 Etc/GMT] PHP Notice:  Undefined index: pic in /home/pragmeec/public_html/recipes/recipes.php on line 21
+[24-Oct-2015 08:22:23 Etc/GMT] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/pragmeec/public_html/recipes/recipes.php on line 28
+[24-Oct-2015 08:22:23 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/pragmeec/public_html/recipes/recipes.php on line 45
+[24-Oct-2015 08:22:55 Etc/GMT] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/pragmeec/public_html/recipes/recipes.php on line 28
+[24-Oct-2015 08:22:55 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/pragmeec/public_html/recipes/recipes.php on line 45
+[24-Oct-2015 08:23:00 Etc/GMT] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/pragmeec/public_html/recipes/recipes.php on line 28
+[24-Oct-2015 08:23:00 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/pragmeec/public_html/recipes/recipes.php on line 45
+[24-Oct-2015 08:24:46 Etc/GMT] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/pragmeec/public_html/recipes/recipes.php on line 29
+[24-Oct-2015 08:24:46 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/pragmeec/public_html/recipes/recipes.php on line 46
+[24-Oct-2015 08:25:10 Etc/GMT] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/pragmeec/public_html/recipes/recipes.php on line 30
+[24-Oct-2015 08:25:10 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/pragmeec/public_html/recipes/recipes.php on line 47
+[24-Oct-2015 08:26:00 Etc/GMT] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/pragmeec/public_html/recipes/recipes.php on line 30
+[24-Oct-2015 08:26:00 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/pragmeec/public_html/recipes/recipes.php on line 47
+[24-Oct-2015 08:50:05 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/contact.php on line 104
+[24-Oct-2015 08:50:05 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/contact.php on line 105
+[24-Oct-2015 08:50:05 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/contact.php on line 106
+[24-Oct-2015 08:50:05 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/contact.php on line 107
+[24-Oct-2015 08:59:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/contact.php on line 104
+[24-Oct-2015 08:59:45 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/contact.php on line 105
+[24-Oct-2015 08:59:45 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/contact.php on line 106
+[24-Oct-2015 08:59:45 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/contact.php on line 107
+[24-Oct-2015 09:20:37 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/contact.php on line 104
+[24-Oct-2015 09:20:37 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/contact.php on line 105
+[24-Oct-2015 09:20:37 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/contact.php on line 106
+[24-Oct-2015 09:20:37 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/contact.php on line 107
+[24-Oct-2015 09:21:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/pragmeec/public_html/recipes/contact.php on line 104
+[24-Oct-2015 09:21:47 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/contact.php on line 105
+[24-Oct-2015 09:21:47 Etc/GMT] PHP Notice:  Undefined index: password in /home/pragmeec/public_html/recipes/contact.php on line 106
+[24-Oct-2015 09:21:47 Etc/GMT] PHP Notice:  Undefined index: repassword in /home/pragmeec/public_html/recipes/contact.php on line 107
+[24-Oct-2015 09:26:20 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/contact.php on line 105
+[24-Oct-2015 09:27:57 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/contact.php on line 105
+[24-Oct-2015 09:29:29 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/contact.php on line 105
+[24-Oct-2015 10:20:08 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/optIn.php on line 7
+[24-Oct-2015 10:20:08 Etc/GMT] PHP Notice:  Undefined index: name in /home/pragmeec/public_html/recipes/optIn.php on line 8
+[24-Oct-2015 10:25:33 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/optIn.php on line 23
+[24-Oct-2015 10:27:05 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/optIn.php on line 23
+[24-Oct-2015 10:30:44 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/optIn.php on line 23
+[24-Oct-2015 10:33:30 Etc/GMT] PHP Notice:  Undefined index: name in /home/pragmeec/public_html/recipes/optIn.php on line 10
+[24-Oct-2015 10:33:30 Etc/GMT] PHP Notice:  Undefined index: email in /home/pragmeec/public_html/recipes/optIn.php on line 11
+[24-Oct-2015 10:33:30 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/optIn.php on line 23
+[24-Oct-2015 10:42:50 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_connect() in /home/pragmeec/public_html/recipes/optIn.php on line 22
+[24-Oct-2015 12:45:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/pragmeec/public_html/recipes/newsletter.php on line 106
+[24-Oct-2015 12:45:50 Etc/GMT] PHP Notice:  Undefined variable: signup_date in /home/pragmeec/public_html/recipes/newsletter.php on line 115
+[24-Oct-2015 13:06:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/pragmeec/public_html/recipes/newsletter.php on line 106
+[24-Oct-2015 13:06:41 Etc/GMT] PHP Notice:  Undefined variable: signup_date in /home/pragmeec/public_html/recipes/newsletter.php on line 115
+[24-Oct-2015 13:31:39 Etc/GMT] PHP Parse error:  syntax error, unexpected '"))' (T_CONSTANT_ENCAPSED_STRING) in /home/pragmeec/public_html/recipes/test.php on line 13
+[24-Oct-2015 13:33:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '"))' (T_CONSTANT_ENCAPSED_STRING) in /home/pragmeec/public_html/recipes/test.php on line 23
+[24-Oct-2015 13:34:13 Etc/GMT] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/pragmeec/public_html/recipes/recipes.php on line 30
+[24-Oct-2015 13:34:13 Etc/GMT] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/pragmeec/public_html/recipes/recipes.php on line 47
+[24-Oct-2015 13:36:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/test.php on line 44
+[24-Oct-2015 13:37:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/test.php on line 44
+[24-Oct-2015 13:38:11 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/pragmeec/public_html/recipes/test.php on line 27
+[24-Oct-2015 13:39:05 Etc/GMT] PHP Notice:  Undefined index:  in /home/pragmeec/public_html/recipes/test.php on line 27
+[24-Oct-2015 13:39:05 Etc/GMT] PHP Notice:  Undefined index:  in /home/pragmeec/public_html/recipes/test.php on line 27
+[24-Oct-2015 14:08:40 Etc/GMT] PHP Notice:  Undefined index: imageContent in /home/pragmeec/public_html/recipes/test.php on line 29
+[24-Oct-2015 14:08:40 Etc/GMT] PHP Notice:  Undefined index: imageContent in /home/pragmeec/public_html/recipes/test.php on line 29
+[24-Oct-2015 14:15:50 Etc/GMT] PHP Notice:  Undefined index: mime_type in /home/pragmeec/public_html/recipes/test.php on line 28
+[24-Oct-2015 14:15:50 Etc/GMT] PHP Notice:  Undefined index: mime_type in /home/pragmeec/public_html/recipes/test.php on line 28
+[26-Oct-2015 05:09:48 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/recipe.php on line 157
+[26-Oct-2015 05:11:24 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/recipe.php on line 157
+[26-Oct-2015 05:33:09 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 17
+[26-Oct-2015 05:39:09 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/blob.php on line 20
+[26-Oct-2015 05:39:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/blob.php on line 20
+[26-Oct-2015 05:43:06 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 05:43:22 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 05:43:59 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 05:44:06 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 05:48:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'blob' in /home/pragmeec/public_html/recipes/blob.php on line 21
+[26-Oct-2015 05:49:53 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'blob' in /home/pragmeec/public_html/recipes/blob.php on line 21
+[26-Oct-2015 05:50:03 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 05:50:06 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'blob' in /home/pragmeec/public_html/recipes/blob.php on line 21
+[26-Oct-2015 05:50:16 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'blob' in /home/pragmeec/public_html/recipes/blob.php on line 21
+[26-Oct-2015 05:53:32 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'blob' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:53:58 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'recipe' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:54:33 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'recipe' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:54:35 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'recipe' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:54:37 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'recipe' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:55:20 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'recipe' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:55:25 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'recipe' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:55:38 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'recipe' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:56:46 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'users' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:58:18 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'users' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:58:30 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'blob' in /home/pragmeec/public_html/recipes/blob.php on line 21
+[26-Oct-2015 05:58:49 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'blob' in /home/pragmeec/public_html/recipes/blob.php on line 21
+[26-Oct-2015 05:58:57 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'blob' in /home/pragmeec/public_html/recipes/blob.php on line 21
+[26-Oct-2015 05:59:18 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'signups' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 05:59:42 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'signups' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 06:00:09 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'pragmeec_recipes'@'localhost' to database 'recipe' in /home/pragmeec/public_html/recipes/test.php on line 13
+[26-Oct-2015 06:02:55 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 06:03:03 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 06:05:40 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:05:54 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:07:17 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:07:28 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:10:39 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:10:43 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:10:44 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:10:50 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:11:36 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:13:04 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:13:13 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:30:49 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 26
+[26-Oct-2015 06:35:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/blob.php on line 35
+[26-Oct-2015 06:37:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/pragmeec/public_html/recipes/blob.php on line 33
+[26-Oct-2015 06:38:17 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/pragmeec/public_html/recipes/blob.php on line 33
+[26-Oct-2015 06:38:21 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/pragmeec/public_html/recipes/blob.php on line 33
+[26-Oct-2015 06:41:17 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 06:48:23 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 06:49:23 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 06:49:36 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 06:52:11 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 06:57:56 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 06:58:06 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 06:59:01 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 06:59:08 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 07:01:09 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 28
+[26-Oct-2015 07:01:19 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 28
+[26-Oct-2015 07:02:29 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 29
+[26-Oct-2015 07:02:36 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_select_db() in /home/pragmeec/public_html/recipes/blob.php on line 29
+[26-Oct-2015 07:07:29 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 07:08:14 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 07:09:06 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 07:09:49 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 27
+[26-Oct-2015 07:12:35 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 29
+[26-Oct-2015 07:13:27 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 29
+[26-Oct-2015 07:14:56 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 29
+[26-Oct-2015 07:18:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/blob.php on line 20
+[26-Oct-2015 07:19:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/blob.php on line 41
+[26-Oct-2015 07:20:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/blob.php on line 41
+[26-Oct-2015 07:21:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/blob.php on line 41
+[26-Oct-2015 07:24:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/blob.php on line 41
+[26-Oct-2015 07:25:19 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:26:02 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:26:52 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:26:58 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:38:06 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:38:45 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:38:49 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:42:15 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/pragmeec/public_html/recipes/blob.php on line 37
+[26-Oct-2015 07:43:06 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/pragmeec/public_html/recipes/blob.php on line 37
+[26-Oct-2015 07:43:51 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:44:53 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 32
+[26-Oct-2015 07:45:41 Etc/GMT] PHP Notice:  Undefined variable: name in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:45:41 Etc/GMT] PHP Notice:  Undefined variable: image in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:45:41 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 31
+[26-Oct-2015 07:45:51 Etc/GMT] PHP Notice:  Undefined variable: name in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:45:51 Etc/GMT] PHP Notice:  Undefined variable: image in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:45:51 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 31
+[26-Oct-2015 07:47:33 Etc/GMT] PHP Notice:  Undefined index: name in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:47:33 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/blob.php on line 31
+[26-Oct-2015 07:47:33 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 34
+[26-Oct-2015 07:51:09 Etc/GMT] PHP Notice:  Undefined index: name in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:51:09 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/blob.php on line 31
+[26-Oct-2015 07:51:09 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 34
+[26-Oct-2015 07:51:19 Etc/GMT] PHP Notice:  Undefined index: name in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:51:19 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/blob.php on line 31
+[26-Oct-2015 07:51:19 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 34
+[26-Oct-2015 07:52:11 Etc/GMT] PHP Notice:  Undefined index: name in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:52:11 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/blob.php on line 31
+[26-Oct-2015 07:52:11 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 34
+[26-Oct-2015 07:52:19 Etc/GMT] PHP Notice:  Undefined index: name in /home/pragmeec/public_html/recipes/blob.php on line 30
+[26-Oct-2015 07:52:19 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/blob.php on line 31
+[26-Oct-2015 07:52:19 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 34
+[26-Oct-2015 07:54:59 Etc/GMT] PHP Notice:  Undefined index: name in /home/pragmeec/public_html/recipes/blob.php on line 31
+[26-Oct-2015 07:54:59 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/blob.php on line 32
+[26-Oct-2015 07:54:59 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 35
+[26-Oct-2015 07:56:46 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/blob.php on line 32
+[26-Oct-2015 07:56:46 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_real_escape_string() in /home/pragmeec/public_html/recipes/blob.php on line 35
+[26-Oct-2015 08:12:58 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/imageUpload.php on line 19
+[26-Oct-2015 08:14:18 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/imageUpload.php on line 19
+[26-Oct-2015 08:20:26 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/imageUpload.php on line 19
+[26-Oct-2015 08:21:58 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/imageUpload.php on line 19
+[26-Oct-2015 08:22:39 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/imageUpload.php on line 19
+[26-Oct-2015 08:26:40 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/imageUpload.php on line 19
+[26-Oct-2015 08:38:11 Etc/GMT] PHP Notice:  Undefined variable: imageType in /home/pragmeec/public_html/recipes/imageUpload.php on line 18
+[26-Oct-2015 08:38:11 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_query() in /home/pragmeec/public_html/recipes/imageUpload.php on line 20
+[26-Oct-2015 08:38:31 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/recipe.php on line 170
+[26-Oct-2015 08:51:58 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 08:51:58 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 08:51:58 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 08:51:58 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 08:51:58 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 08:52:32 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 08:52:32 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 09:02:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '"Preperation Time "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/test.php on line 26
+[26-Oct-2015 09:03:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '"<tr><td>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/test.php on line 26
+[26-Oct-2015 09:06:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '"Preperation Time "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/test.php on line 26
+[26-Oct-2015 09:07:54 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 28
+[26-Oct-2015 09:07:54 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 28
+[26-Oct-2015 09:09:55 Etc/GMT] PHP Parse error:  syntax error, unexpected 'width' (T_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/test.php on line 23
+[26-Oct-2015 09:10:39 Etc/GMT] PHP Parse error:  syntax error, unexpected 'recptable' (T_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/test.php on line 23
+[26-Oct-2015 09:10:42 Etc/GMT] PHP Parse error:  syntax error, unexpected 'recptable' (T_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/test.php on line 23
+[26-Oct-2015 09:11:00 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 28
+[26-Oct-2015 09:11:00 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 28
+[26-Oct-2015 09:11:04 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 28
+[26-Oct-2015 09:11:04 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 28
+[26-Oct-2015 09:12:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/pragmeec/public_html/recipes/test.php on line 25
+[26-Oct-2015 09:14:06 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<img src="data:image/jpeg;bas' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/test.php on line 31
+[26-Oct-2015 09:14:36 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<img src="data:image/jpeg;bas' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/test.php on line 31
+[26-Oct-2015 09:35:49 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<img src="data:image/jpeg;bas' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/test.php on line 31
+[26-Oct-2015 09:36:32 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 09:36:32 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 09:38:49 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 09:38:49 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 09:39:40 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 09:39:40 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 09:40:08 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 09:40:08 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 29
+[26-Oct-2015 09:43:13 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:43:13 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:45:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '"Cooking Time:"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/test.php on line 82
+[26-Oct-2015 09:45:52 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:45:52 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:46:12 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:46:12 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:47:30 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:47:30 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:49:58 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:49:58 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:52:19 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:52:19 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:53:29 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:53:29 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:56:26 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:56:26 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:57:04 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:57:04 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:58:32 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 09:58:32 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 10:00:49 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 10:00:49 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 10:02:51 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 10:02:51 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 10:05:56 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 10:05:56 Etc/GMT] PHP Notice:  Undefined index: ing in /home/pragmeec/public_html/recipes/test.php on line 84
+[26-Oct-2015 11:24:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/recipe.php on line 168
+[26-Oct-2015 11:25:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/recipe.php on line 168
+[26-Oct-2015 11:26:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/recipe.php on line 168
+[26-Oct-2015 11:26:57 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/recipe.php on line 168
+[26-Oct-2015 11:27:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/recipe.php on line 169
+[26-Oct-2015 11:28:18 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/pragmeec/public_html/recipes/recipe.php on line 169
+[26-Oct-2015 12:09:25 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/pragmeec/public_html/recipes/recipe.php on line 158
+[26-Oct-2015 12:11:09 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/pragmeec/public_html/recipes/recipe.php on line 158
+[26-Oct-2015 12:12:26 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/pragmeec/public_html/recipes/recipe.php on line 158
+[26-Oct-2015 12:14:38 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/pragmeec/public_html/recipes/recipe.php on line 158
+[26-Oct-2015 12:16:43 Etc/GMT] PHP Fatal error:  Using $this when not in object context in /home/pragmeec/public_html/recipes/recipe.php on line 158
+[26-Oct-2015 12:29:59 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 95
+[26-Oct-2015 12:29:59 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 102
+[26-Oct-2015 12:29:59 Etc/GMT] PHP Notice:  Undefined variable: _PHP_SELF in /home/pragmeec/public_html/recipes/members_recipe.php on line 104
+[26-Oct-2015 12:29:59 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 104
+[26-Oct-2015 12:30:06 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 95
+[26-Oct-2015 12:30:06 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 102
+[26-Oct-2015 12:30:06 Etc/GMT] PHP Notice:  Undefined variable: _PHP_SELF in /home/pragmeec/public_html/recipes/members_recipe.php on line 104
+[26-Oct-2015 12:30:06 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 104
+[26-Oct-2015 12:30:26 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 95
+[26-Oct-2015 12:30:26 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 102
+[26-Oct-2015 12:30:26 Etc/GMT] PHP Notice:  Undefined variable: _PHP_SELF in /home/pragmeec/public_html/recipes/members_recipe.php on line 104
+[26-Oct-2015 12:30:26 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 104
+[26-Oct-2015 12:40:19 Etc/GMT] PHP Notice:  Undefined variable: start in /home/pragmeec/public_html/recipes/members_recipe.php on line 94
+[26-Oct-2015 12:40:19 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 99
+[26-Oct-2015 12:40:19 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 106
+[26-Oct-2015 12:40:19 Etc/GMT] PHP Notice:  Undefined variable: _PHP_SELF in /home/pragmeec/public_html/recipes/members_recipe.php on line 108
+[26-Oct-2015 12:40:19 Etc/GMT] PHP Notice:  Undefined variable: page in /home/pragmeec/public_html/recipes/members_recipe.php on line 108
+[26-Oct-2015 12:46:30 Etc/GMT] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' in /home/pragmeec/public_html/recipes/members_recipe.php on line 92
+[26-Oct-2015 12:47:31 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/recipe.php on line 171
+[26-Oct-2015 13:13:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/members_recipe.php on line 93
+[26-Oct-2015 13:13:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/members_recipe.php on line 93
+[26-Oct-2015 13:13:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/members_recipe.php on line 93
+[26-Oct-2015 13:13:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/pragmeec/public_html/recipes/members_recipe.php on line 93
+[26-Oct-2015 13:16:13 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/pragmeec/public_html/recipes/members_recipe.php on line 82
+[26-Oct-2015 13:16:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/pragmeec/public_html/recipes/members_recipe.php on line 82
+[26-Oct-2015 14:28:17 Etc/GMT] PHP Notice:  Undefined index: image in /home/pragmeec/public_html/recipes/recipe.php on line 172
+[28-Oct-2015 09:55:59 UTC] PHP Fatal error:  Class 'TwitterOAuth' not found in /home/jlavan1/public_html/twitter_login.php on line 3
+[28-Oct-2015 10:04:09 UTC] PHP Fatal error:  Class 'TwitterOAuth' not found in /home/jlavan1/public_html/twitter_login.php on line 3
+[28-Oct-2015 10:04:15 UTC] PHP Fatal error:  Class 'TwitterOAuth' not found in /home/jlavan1/public_html/twitter_login.php on line 3
+[02-Nov-2015 12:53:01 UTC] PHP Fatal error:  Call to undefined function logedIn() in /home/jlavan1/public_html/index.php on line 48
+[04-Nov-2015 12:20:46 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/jlavan1/public_html/recipesearch.php on line 203
+[04-Nov-2015 12:20:55 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/jlavan1/public_html/recipesearch.php on line 203
+[04-Nov-2015 12:21:47 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/jlavan1/public_html/recipesearch.php on line 203
+[04-Nov-2015 12:22:15 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/jlavan1/public_html/recipesearch.php on line 203
+[04-Nov-2015 12:22:21 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/jlavan1/public_html/recipesearch.php on line 203
+[04-Nov-2015 12:24:16 UTC] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/jlavan1/public_html/recipesearch.php on line 204
+[04-Nov-2015 14:19:22 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/jlavan1/public_html/recipesearch.php on line 98
+[04-Nov-2015 14:28:48 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/jlavan1/public_html/recipesearch.php on line 97
+[04-Nov-2015 14:29:15 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/jlavan1/public_html/recipesearch.php on line 97
+[04-Nov-2015 14:29:53 UTC] PHP Fatal error:  Call to undefined method PDO::fetch_assoc() in /home/jlavan1/public_html/recipesearch.php on line 97
+[04-Nov-2015 14:32:47 UTC] PHP Fatal error:  Call to undefined method PDOStatement::fetch_assoc() in /home/jlavan1/public_html/recipesearch.php on line 97
